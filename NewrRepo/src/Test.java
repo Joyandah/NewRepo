@@ -7,7 +7,6 @@ public class Test {
 		System.out.println("This is the first text");
 		master("Morid");
 		Sdeta(21);
-		// hello
 	}
 	public static void master(String name){
 	System.out.println(name);	
