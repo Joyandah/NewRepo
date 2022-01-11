@@ -8,6 +8,7 @@ public class Test {
 		master("Morid");
 		Sdeta(21);
 		// hello
+		// text
 	}
 	public static void master(String name){
 	System.out.println(name);	
