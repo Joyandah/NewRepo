@@ -9,6 +9,7 @@ public class Test {
 		Sdeta(21);
 		// hello
 		// text
+		// now
 	}
 	public static void master(String name){
 	System.out.println(name);	
